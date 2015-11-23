@@ -2,12 +2,13 @@ package com.example.palny.travelappmockup;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
-public class MainActivity extends Activity implements AdapterView.OnItemSelectedListener{
+public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
     private String[] trackType = {"Extreme","Romantic","Scenic","Relaxed"};
 

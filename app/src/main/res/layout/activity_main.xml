@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/suggestALocalTrack"
             android:layout_below="@id/separator1"
-            android:text="Suggest a Local Track"
+            android:text="Suggest a Nearby Track"
             android:textAppearance="@android:style/TextAppearance.Large"
             android:drawableRight="@drawable/arrow"
             />

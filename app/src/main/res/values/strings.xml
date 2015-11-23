@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TravelAppMockup</string>
+    <string name="app_name">Travel Tracks</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
